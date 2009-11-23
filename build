@@ -1,0 +1,2 @@
+#!/bin/sh
+rst2pdf presentation.rst -b1 -s slides.style
